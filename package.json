@@ -1,0 +1,19 @@
+{
+  "name": "noderest",
+  "version": "1.0.0",
+  "description": "First example with node api rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HugoOliveiraThor/Node_Rest.git"
+  },
+  "author": "Hugo Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HugoOliveiraThor/Node_Rest/issues"
+  },
+  "homepage": "https://github.com/HugoOliveiraThor/Node_Rest#readme"
+}
